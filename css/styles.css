@@ -1,0 +1,134 @@
+
+
+#title {
+background-color: #ff4c68;
+}
+
+
+.container-fluid {
+padding: 3% 8%;
+font-family: 'Montserrat';
+padding-bottom:80px;
+padding-top: 10px;
+
+
+}
+
+h1 {
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 5rem;
+    line-height: 1.5;
+    padding-top: 100px;
+    
+}
+
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight:400;
+    /* padding-top: 1px; */
+}
+
+
+.nav-item{
+    padding: 0 18px;
+   
+}
+
+.nav-link{
+    font-size: 1.5rem;
+    font-family:"Montserrat-Light";
+}
+
+h3{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 1.5rem;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+
+h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:3rem;
+    line-height:6rem;
+}
+
+.download-button{
+ margin: 5% 3% 5% 0;
+}
+
+.title-image{
+    width: 50%;
+    transform: rotate(25deg);
+    margin: 10% 3% 1% 25%;
+    /* z-index: -1; */
+    position: absolute;
+}
+
+/* As this is id it should be initiated with hashtag */
+#features {
+    padding : 7% 15%;
+    background-color: #fff;
+    position: relative;
+    /* z-index: 1; */
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: #f55e44;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+#testimonials {
+
+    text-align: center;
+    background-color:  #f98562;
+    color: #fff;
+}
+
+.carousel-item{
+    padding: 8% 15%;
+}
+
+
+.testimonials-image{
+   width: 15%;
+   border-radius:100%;
+   margin: 20px;
+}
+
+#press{
+     background-color: #f98562 ;
+     text-align: center;
+     padding-bottom: 2%;
+}
+
+.press-logo {
+    width:15%;
+    margin: 50px 55px 60px;
+}
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-coloumn{
+    padding: 3% 2%;
+}
+
+
+
